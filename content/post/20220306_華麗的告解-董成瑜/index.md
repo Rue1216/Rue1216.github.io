@@ -1,23 +1,25 @@
 ---
 title: "華麗的告解-董成瑜"
-description: '一本人物專訪的合輯，透過作者的文字和時間來驗證歷史與答案。'
+description: "一本人物專訪的合輯，透過作者的文字和時間來驗證歷史與答案。"
 date: 2022-03-06
 image: https://images.unsplash.com/photo-1596787071320-c06155930dae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80
-math: 
-license: 
+math:
+license:
 hidden: false
 comments: true
 draft: false
 categories:
-    - Media
+  - Media
 tags:
-    - Readings
+  - 閱讀心得
 ---
+
 ![華麗的告解-書的本體](1.jpeg)
-* 作者：董成瑜
-* 出版時間：2016-01-29
-* 出版社：時報出版
-* Score：<code>:sparkles::sparkles::sparkles::sparkles:</code>
+
+- 作者：董成瑜
+- 出版時間：2016-01-29
+- 出版社：時報出版
+- Score：<code>:sparkles::sparkles::sparkles::sparkles:</code>
 
 因為上學期的國文課而知道了這本書，作者董成瑜，擅長人物專訪。
 
