@@ -6,5 +6,5 @@ image: https://images.unsplash.com/photo-1445380066825-3fb2ddb1be4b?ixlib=rb-4.0
 # Badge style
 style:
   background: "#CCAFA5"
-  color: "#FFF5EE"
+  color: "#55433C"
 ---

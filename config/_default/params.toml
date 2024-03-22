@@ -14,7 +14,7 @@ lastUpdated = "Oct 11, 2023"
 
 [sidebar]
 emoji = ""
-subtitle = "Hi, I'm Rue, and I like coding."
+subtitle = "Good morning, good afternoon and good night."
 
 [sidebar.avatar]
 enabled = true
@@ -23,10 +23,10 @@ src = "img/avatar.png"
 
 [article]
 math = false
-readingTime = true
+readingTime = false
 
 [article.license]
-enabled = true
+enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
@@ -39,11 +39,11 @@ type = "archives"
 [widgets.homepage.params]
 limit = 5
 
-[[widgets.homepage]]
-type = "categories"
+#[[widgets.homepage]]
+#type = "categories"
 
-[widgets.homepage.params]
-limit = 10
+#[widgets.homepage.params]
+#limit = 10
 
 [[widgets.homepage]]
 type = "tag-cloud"
@@ -65,7 +65,7 @@ src = ""
 
 [colorScheme]
 toggle = true
-default = "auto"
+default = "dark"
 
 [imageProcessing.cover]
 enabled = true

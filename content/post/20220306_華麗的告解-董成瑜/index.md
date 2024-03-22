@@ -14,7 +14,9 @@ tags:
   - 閱讀心得
 ---
 
-![華麗的告解-書的本體](1.jpeg)
+<div align="center">
+<img src="1.jpeg" width = "300" height = "200" alt="華麗的告解-書的本體" align="center" />
+</div>
 
 - 作者：董成瑜
 - 出版時間：2016-01-29

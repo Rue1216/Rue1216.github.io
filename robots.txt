@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /search
-Disallow: /category/
-Disallow: /tag/
-Allow: /
-Sitemap: https://rue1216.github.io//sitemap.xml

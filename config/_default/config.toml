@@ -2,7 +2,7 @@
 baseurl = "https://rue1216.github.io"
 languageCode = "en-us"
 paginate = 5
-title = "Rue's blog"
+title = "Rue 的漫想雜談"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
