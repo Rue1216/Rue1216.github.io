@@ -13,8 +13,8 @@ published = "Jan 02, 2006"
 lastUpdated = "Oct 11, 2023"
 
 [sidebar]
-emoji = ""
-subtitle = "Good morning, good afternoon and good night."
+emoji = "🌠"
+subtitle = "喜歡寫扣的心悸寶貝"
 
 [sidebar.avatar]
 enabled = true
@@ -23,7 +23,7 @@ src = "img/avatar.png"
 
 [article]
 math = false
-readingTime = false
+readingTime = true
 
 [article.license]
 enabled = false
@@ -61,7 +61,7 @@ card = "summary_large_image"
 [defaultImage.opengraph]
 enabled = false
 local = false
-src = ""
+src = "/favicon/android-chrome-192x192.png"
 
 [colorScheme]
 toggle = true
