@@ -1,0 +1,1 @@
+(()=>{var e=document.querySelector("body"),t=document.querySelector(".container"),n=Object.assign(document.createElement("noscript"),{innerHTML:'<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMKKXZT5" height="0" width="0" style="display:none;visibility:hidden"></iframe>'});e.insertBefore(n,t);})();

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>home on Rue 的漫想雜談</title><link>https://rue1216.github.io/</link><description>Recent content in home on Rue 的漫想雜談</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rue1216.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>第一份工作</title><link>https://rue1216.github.io/p/%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%B7%A5%E4%BD%9C/</link><pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate><guid>https://rue1216.github.io/p/%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%B7%A5%E4%BD%9C/</guid><description>&lt;img src="https://images.unsplash.com/photo-1542586484-1ba19fe1ad53?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1740&amp;q=80" alt="Featured image of post 第一份工作" />&lt;blockquote>
+&lt;p>直接踏入職場，你可能會成長得更快。&lt;/p>
+&lt;/blockquote>
+&lt;p>距離上一次更新 blog 已經是 2022/03 的事情了，去年 6 月畢業後就馬不停蹄地面試，也順利在 8 月進到現在這間行銷公司，嘿對，我現在還在同一間公司，但接下來計畫要去別的地方鍛鍊。&lt;/p>
+&lt;p>這一年多來學到許多技術與觀念，培養了一些只有實際工作過才能擁有的軟實力，才終於理解當初去面試 AppWorks School 時面試官所說的：「直接踏入職場，你可能會成長得更快。」&lt;/p>
+&lt;h2 id="我的第一份工作">我的第一份工作&lt;/h2>
+&lt;p>敝司在業界存在許久，實際運作的方式其實跟新創十分類似，需要在一片慌亂中找出屬於自己的步調，也需要把握時機、展現出自己的實力，更需要在遇到不合理需求時，踩穩自己的底線。我想，如果一開始就進到一個井然有序的團隊，或許沒有辦法變得跟現在一樣如此社會化吧。&lt;/p>
+&lt;p>目前我們前端的成員，無論是技術或其他方面都有許多能學習的地方，一部分或許也因為是年紀相仿，溝通成本沒有太高，辦公室整體氣氛活潑，剛好我們的團隊成員都是願意認真把事情做好的類型，可以說是非常幸運遇到了這些前輩。&lt;/p>
+&lt;p>我在第一位主管身上學到很多，無論是技術層面還是與人溝通的技巧，也能看見主管如何帶領團隊、分配人力資源，讓我能站在更高的視野去觀察；而除了優化原本的交付流程之外，他也問了我許多具有啟發性的問題，才讓我開始認真地思考職涯發展，和自己到底想要成為什麼樣的人，是十分可貴的經歷。&lt;/p>
+&lt;h2 id="能帶走的技能">能帶走的技能&lt;/h2>
+&lt;p>到目前為止，這份工作讓我擁有下列知識點和許多實作的機會：&lt;/p>
+&lt;ul>
+&lt;li>廣告系統 / 程序化購買的運作流程&lt;/li>
+&lt;li>使用原生 JS 進行廣告素材模組的開發與維護&lt;/li>
+&lt;li>Vue2 to Vue3 升級的經驗&lt;/li>
+&lt;li>使用 GTM 進行 40+ 案件的網頁追蹤埋設與除錯&lt;/li>
+&lt;/ul>
+&lt;p>軟實力的培養包括：&lt;/p>
+&lt;ul>
+&lt;li>能將問題切分、釐清並思考有沒有更好的解決方式&lt;/li>
+&lt;li>能夠評估需求與時程是否合理&lt;/li>
+&lt;li>能準時交付，在遇到問題時也能及時向他人反應與求助&lt;/li>
+&lt;/ul>
+&lt;p>雖然技術面還有很多需要學習的，但目前覺得自己總算像是一個前端工程師了。&lt;/p>
+&lt;h2 id="挫折記錄">挫折記錄&lt;/h2>
+&lt;p>簡單記錄自己在這間公司產生負面情緒的時刻，簡單來說都跟人有關，人總是複雜，但只要持續打工的日子，就無法迴避掉人的問題，這或許也是許多轉職仔在進到工程師職涯前，容易誤解的盲區之一吧，許多人會認為工程師只需要好好維護自己的程式品質，不太注重溝通，但事實是前端工程師的確需要大量與人溝通，對象可能會有其他工程師 / 設計師 / 甚至業務，我們的工作內容是提出各式問題，再透過溝通來確保自己產出的內容符合需求。&lt;/p>
+&lt;p>比起總是抱怨其他人給自己造成麻煩，我還是比較習慣從自身做出改變，像是：有大量需要埋設第三方監測的需求時，我會寫 python 來自動嵌入對應的代碼取代工人智慧，而不是只會複製貼上。會不停思考問題是否有更好的解決方案並嘗試去優化流程，雖然技術上或許還不夠成熟，但我還是會持續努力，至於其他沒有辦法解決的問題，就交給老天去幫我解決吧。&lt;/p>
+&lt;h3 id="付錢的是老大之我的心路轉折">付錢的是老大之，我的心路轉折&lt;/h3>
+&lt;p>因為業務性質需要處理許多客製化的需求，大多時候都在和時間賽跑，可以理解在生產線上一定會處於經常變動的狀態，如果今天我是付錢的消費者，肯定也希望能在確定需求後就馬上拿到我想要的東西，而且「客戶至上」的道理我相信只要是打工人，都一定能明白，但讓我很難跨過心理障礙的是下面兩點：&lt;/p>
+&lt;ol>
+&lt;li>不尊重專業，向工程師要求評估，但根本沒參考評估出來的結果&lt;/li>
+&lt;li>時程永遠是參考用，讓你今天產出就是今天產出&lt;/li>
+&lt;/ol>
+&lt;p>剛進公司時，我曾經非常不諒解，也無法明白為什麼明明規格都已經提供過了，對方卻還是不停試探你的底線，經常覺得委屈卻也無法影響對方。後來經過小主管的開導，我學著使用不同角度來理解對方的想法，比起抱怨業務和客戶都亂壓時程，在每一次遇到不合理的需求時，變得更能夠專注在「需求本身」和「提出解決方法」上，不太會代入個人情緒，因為我理解到這無助於達成目標，而我並不想變成同事眼中情緒化且難以溝通的對象。&lt;/p>
+&lt;h3 id="我也喜歡有人-carry-的感覺">我也喜歡有人 carry 的感覺&lt;/h3>
+&lt;p>畢竟是第一份正職工作，或許在溝通和團隊合作上，我都還有可以再努力改進的地方，不敢說自己是好隊友，但勉強也是被不只兩個人稱讚過做事積極、看好我的能力，為什麼平常工作時總還是覺得被拖累、也被限制住呢？為了我心頭的這股納悶，回頭整理了我認為真正影響工作順暢度的兩件事：&lt;/p>
+&lt;ol>
+&lt;li>許多同事喜歡當傳聲筒，完全無法協助簡化問題，甚至還會使問題發散&lt;/li>
+&lt;li>沒有人好好規劃產品、服務的流程，簡直一團糟&lt;/li>
+&lt;/ol>
+&lt;p>在團隊內，沒有目標只會讓一群人軍心渙散，不管一個人單幹能多強、有多高的產能，一個人的體力和時間終究是有限的，我想我之所以會覺得在工作上沒有動力、甚至快要產生職業倦怠，是因為缺乏在團隊內的歸屬認同，和一個大家可以一起努力的目標，而且環境內的大多數人都僅僅只想付出最低的成本，得過且過。雖然這並不影響我個人的持續學習，但或許環境內有沒有這樣的 incentive 、同儕之間互動是否偏向消極，可能比我自己認知的還更具有影響力。&lt;/p>
+&lt;h2 id="下一步">下一步？&lt;/h2>
+&lt;p>我想是時候了，目前這份工作，已經無法讓自己的成長幅度與期待相符，先期許自己能進到公司和團隊都重視程式與產品品質的環境內，畢竟當人有共同目標與共同的身分認同時，才能對工作更有熱情；也期許自己能更有勇氣接受挑戰、遇強則強。&lt;/p></description></item><item><title>Archives</title><link>https://rue1216.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://rue1216.github.io/archives/</guid><description/></item><item><title>華麗的告解-董成瑜</title><link>https://rue1216.github.io/p/%E8%8F%AF%E9%BA%97%E7%9A%84%E5%91%8A%E8%A7%A3-%E8%91%A3%E6%88%90%E7%91%9C/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://rue1216.github.io/p/%E8%8F%AF%E9%BA%97%E7%9A%84%E5%91%8A%E8%A7%A3-%E8%91%A3%E6%88%90%E7%91%9C/</guid><description>&lt;img src="https://images.unsplash.com/photo-1596787071320-c06155930dae?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1074&amp;q=80" alt="Featured image of post 華麗的告解-董成瑜" />&lt;div align="center">
+&lt;img src="1.jpeg" width = "300" height = "200" alt="華麗的告解-書的本體" align="center" />
+&lt;/div>
+&lt;ul>
+&lt;li>作者：董成瑜&lt;/li>
+&lt;li>出版時間：2016-01-29&lt;/li>
+&lt;li>出版社：時報出版&lt;/li>
+&lt;li>Score：&lt;code>&amp;#x2728;&amp;#x2728;&amp;#x2728;&amp;#x2728;&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>因為上學期的國文課而知道了這本書，作者董成瑜，擅長人物專訪。&lt;/p>
+&lt;p>課堂開始，先閱讀了書內自序—進入他人內心之必要，敘述採訪者跟每個受訪者的、想像的，近似短期戀愛的關係，在這種接近愛上、迷戀對方的狀態下，一舉一動都將被放大檢視，但這樣的迷戀是有時效性的，是作者讓自己「被浸泡」在那樣的狀態下，更容易抽離。&lt;/p>
+&lt;p>問問題的人似乎需要對問題和框架、背景有清楚的認知，那麼，採訪者可能會比受訪者更了解他們自己嗎？也許能做到的只有一層一層抽絲剝繭，僅僅只是了解人物背景，並不足以完成一篇人物專訪，畢竟，人無時無刻都在變化。&lt;/p>
+&lt;p>或者需要回到最基本的信任問題，身為採訪者，該如何在幾次的會面中讓受訪對象「做自己」？就像書裡描述的，通常採訪者都需要先舉雙手投降，讓受訪者知道自己並沒有加害於他的目的，專訪才可能順利進行，也許是知曉媒體的力量，明白經過裁剪之後的語句，可能讓自己處在危險的環境下，也可能什麼事都沒發生，就算來者釋出善意，一般人還是會有所保留，那麼看穿這種「保留」的能力，也許就是訪問者的課題了。&lt;/p>
+&lt;p>而關於真的想要了解的問題，是什麼樣的過去，造就了眼前的這個人？也許這本書存在的目的就是驗證與紀錄，集合了政客、黑道老大、廚師等等不同背景的人們，經過時間的驗證，我們可以看見歷史的軌跡如何運行，也可以透過作者對人物的細膩側寫，看見那些大眾媒體和網路平台上，名人們的不同面貌。&lt;/p></description></item><item><title>我為什麼在這裡</title><link>https://rue1216.github.io/p/%E6%88%91%E7%82%BA%E4%BB%80%E9%BA%BC%E5%9C%A8%E9%80%99%E8%A3%A1/</link><pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate><guid>https://rue1216.github.io/p/%E6%88%91%E7%82%BA%E4%BB%80%E9%BA%BC%E5%9C%A8%E9%80%99%E8%A3%A1/</guid><description>&lt;img src="https://images.unsplash.com/photo-1471922694854-ff1b63b20054?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1172&amp;q=80" alt="Featured image of post 我為什麼在這裡" />&lt;p>如果你跟我一樣曾經用過很多筆記軟體卻怎麼樣都覺得不滿意，你不是一個人(σ′▽‵)′▽‵)σ&lt;/p>
+&lt;p>目前我有使用過的筆記軟體和社群，有：&lt;/p>
+&lt;ul>
+&lt;li>Notion 放置個人生活雜項&lt;/li>
+&lt;li>HackMD 技術文章、實作紀錄&lt;/li>
+&lt;li>Medium 都拿來看別人的好文&lt;/li>
+&lt;li>OneNote 之前上課常拿來做筆記，適合圖片多的課程&lt;/li>
+&lt;/ul>
+&lt;p>每一款筆記軟體都沒有真的讓我非常喜歡，所以我決定自己架一個個人網站。&lt;/p>
+&lt;h2 id="自建起因">自建起因&lt;/h2>
+&lt;p>在去年 9 月踏入前端領域，開始學習許多自己覺得有趣的事物，跟著 Frontend Road-map ，以及許多前端開發課程的學習地圖走，把很多內容的基本介紹先摸了一輪，接下來打算再把切版基礎打更穩一點，熟悉 HTML5 Canvas 的使用，也想學 OpenGL 的應用，再往後的話，會主力學習 Framework，目前選定的是 React，前陣子有找了課程和影片，接觸像 Node.js 、 Firebase 等偏後端的學習和實際操作，也認真思考了一下，還是打算先自己架一個 Blog ，以便後續學習的紀錄。&lt;/p>
+&lt;p>於是，千呼萬喚始出來了自己的部落格/&lt;/p>
+&lt;p>很開心能夠擁有自己的一個新的小天地，有別於各式社群網站、技術部落格的樣板和功能，我從 Hexo、Hugo 中選擇以 Hugo 架站，除了效能考量之外，另外就是 Hugo 用到 Go 這個我覺得看起來很新潮的語言，一開始建置環境還需要做許多設定，但後來這個主題樣板更新，基本上依照著說明建好環境後，只需要將主線推置 main branch，就會順著作者設定好的 git action config 自動部屬更新。&lt;/p>
+&lt;h2 id="未來寫作方向">未來寫作方向&lt;/h2>
+&lt;p>一開始在選定寫作目標的時候，就選擇了主要的三個大方向來進行寫作分享：&lt;/p>
+&lt;ul>
+&lt;li>前端開發&lt;/li>
+&lt;li>自我成長&lt;/li>
+&lt;li>閱讀心得&lt;/li>
+&lt;/ul>
+&lt;p>主要還是以&lt;strong>前端開發&lt;/strong>為寫作重心，不過應該也不只會侷限於前端技術；自我成長的部分，著重於職涯規劃和生產力相關內容；閱讀心得，包含平常閱讀的書籍、文章，影音作品，會著重在觀後心得或議題發想。&lt;/p>
+&lt;h2 id="結語">結語&lt;/h2>
+&lt;p>對於這裡的存在是既興奮又怕受傷害，一方面是覺得自己有很多地方不足，技術層面上還不夠熟練，但自從踏入前端領域，到目前為止的感受都是大寫的快樂和不停成長，是熱情和好奇，讓我不想停止學習和產出，也希望這份熱忱能讓我繼續成長、持續累積。&lt;/p></description></item><item><title>Search</title><link>https://rue1216.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rue1216.github.io/search/</guid><description/></item></channel></rss>
